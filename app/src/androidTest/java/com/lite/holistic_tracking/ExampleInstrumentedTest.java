@@ -1,4 +1,4 @@
-package com.lite.muscle_delta_rom;
+package com.lite.holistic_tracking;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.lite.muscle_delta_rom", appContext.getPackageName());
+        assertEquals("com.lite.holistic_tracking", appContext.getPackageName());
     }
 }

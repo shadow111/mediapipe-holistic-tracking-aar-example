@@ -1,4 +1,4 @@
-package com.lite.muscle_delta_rom;
+package com.lite.holistic_tracking;
 
 import android.content.pm.ApplicationInfo;
 import android.content.pm.PackageManager;

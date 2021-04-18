@@ -6,7 +6,7 @@ android {
     compileSdkVersion 30
 
     defaultConfig {
-        applicationId "com.lite.muscle_delta_rom"
+        applicationId "com.lite.holistic_tracking"
         minSdkVersion 24
         targetSdkVersion 30
         versionCode 1

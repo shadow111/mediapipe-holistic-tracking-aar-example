@@ -1,4 +1,4 @@
-package com.lite.muscle_delta_rom;
+package com.lite.holistic_tracking;
 
 import org.junit.Test;
 
